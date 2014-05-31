@@ -76,7 +76,7 @@ markup tree::
   generators use multiple formatters on a markup tree to produce the output.
 
 formatter::
-  Converts a parsed markup tree into some form other form of markup.
+  Converts a parsed markup tree into some other form of markup.
 
   Formatters can either produce a one-to-one conversion, such as ToHtml, or
   extract part of the parsed result, such as ToHtmlSnippet which outputs the
