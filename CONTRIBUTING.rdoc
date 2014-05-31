@@ -72,7 +72,7 @@ markup tree::
   such as headings, paragraphs, lists or verbatim text sections for example
   code or output.
 
-  A generator uses a formatters to walks the tree to create output.  Some
+  A generator uses formatters to walk the tree and create output.  Some
   generators use multiple formatters on a markup tree to produce the output.
 
 formatter::
